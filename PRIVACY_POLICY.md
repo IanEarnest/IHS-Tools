@@ -1,10 +1,10 @@
 ### Links
-[Link to home page](http://ianearnest.github.io/Space-Marbles/)
+[Link to home page](http://ianearnest.github.io/IHS-Tools/)
 
 [Link to original Privacy Policy(docracy)](https://www.docracy.com/6016/mobile-privacy-policy)
 
 # PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
-This privacy policy governs your use of the software application Space Marbles Android (“Application”) for mobile devices that was created by IanEarnest. The Application is a puzzle game with the idea of using planets as marbles.
+This privacy policy governs your use of the software application IHS Tools (“Application”) for mobile devices that was created by IanEarnest. The Application is a puzzle game with the idea of using planets as marbles.
  
 ## What information does the Application obtain and how is it used?
 ### User Provided Information 
